@@ -5,6 +5,7 @@
       "bundler": "metro"
     },
     "name": "theme-repro",
-    "slug": "theme-repro"
+    "slug": "theme-repro",
+    "userInterfaceStyle": "automatic"
   }
 }
